@@ -1,7 +1,7 @@
 * By Femi Olah.
 * Can be downloaded from GitHub: https://github.com/olahfemi/bfi10-SPSS-Syntax
  
- *** REVERSED ITEMS
+*** REVERSED ITEMS
 
 RECODE
   bfi10.7 bfi10.1 bfi10.3 bfi10.4 bfi10.5
